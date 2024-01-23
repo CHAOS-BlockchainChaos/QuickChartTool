@@ -3,6 +3,12 @@
 
 **Script write in AHKv1 for interacting with the TradingView platform is a tool designed for users looking to optimize their experience with Crypto market analysis.**
 
+## Requirements
+>[!IMPORTANT]
+>
+> -  **Microsoft Windows <sup>tested on Windows 10</sup>**
+> -  **Installed AutoHotKey <sup>v1.1**
+
 > [!CAUTION]
 > **During the first launch, a config.ini file will be created in the folder where QuickChartTool_v1.0.ahk is located**
 > 
