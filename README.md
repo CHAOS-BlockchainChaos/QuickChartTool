@@ -1,4 +1,4 @@
-# Quick Chart Tool v1 | Support my work on [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/blockchainchaos)
+# Quick Chart Tool v1 | <sup>Support my work on</sup> [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/blockchainchaos)
 ![Untitled](https://github.com/CHAOS-BlockchainChaos/QuickChartTool/assets/97523302/c0915101-2b38-4870-9f46-a3a984aef2f1)
 
 **Script write in AHKv1 for interacting with the TradingView platform is a tool designed for users looking to optimize their experience with Crypto market analysis.**
@@ -8,6 +8,7 @@
 >
 > -  **Microsoft Windows <sup>tested on Windows 10</sup>**
 > -  **Installed AutoHotKey <sup>v1.1**
+> -  **TradingView <sup>Desktop Version</sup>**
 
 > [!CAUTION]
 > **During the first launch, a config.ini file will be created in the folder where QuickChartTool_v1.0.ahk is located**
