@@ -10,10 +10,6 @@
 > -  **Installed AutoHotKey <sup>v1.1**
 > -  **TradingView <sup>Desktop Version</sup>**
 
-> [!WARNING]
-> **During the first launch, a config.ini file will be created in the folder where QuickChartTool_v1.0.ahk is located**
-> 
-> ![image](https://github.com/CHAOS-BlockchainChaos/QuickChartTool/assets/97523302/291be4f9-ff2e-4f92-8be8-9b33d1c616fe)
 >
 ## Features
 ### **Mouse gesture**
@@ -32,6 +28,10 @@
 - [x] **Download repository <sup>Don't forget icon folder</sup>**
 - [x] **Unpack where you want**
 - [x] **Run QuickChartTool_v1.0.ahk <sup>Remember to have TradingView running first</sup>**
+> [!WARNING]
+> **During the first launch, a config.ini file will be created in the folder where QuickChartTool_v1.0.ahk is located**
+> 
+> ![image](https://github.com/CHAOS-BlockchainChaos/QuickChartTool/assets/97523302/291be4f9-ff2e-4f92-8be8-9b33d1c616fe)
 - [x] **That's it**
 
 ## Usage
@@ -41,7 +41,7 @@
 ### **Mouse gesture**
 - **Hold mouse RButton and move mouse quickly in the direction**
 
-    | Mouse Gesture | Desciption |
+    | Mouse Gesture | Description |
     | ------------- | ---
     | **Mouse move ⬆️<sup>up</sup>** | Trend line with 45 degree lock |
     | **Mouse move ➡️<sup>right</sup>** | Trend line |
