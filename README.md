@@ -16,11 +16,11 @@
 &nbsp;
 
 ## INSTALLATION
-> 1. **Download repository**
-> 1. **Unpack where you want**
-> 1. **Run TradingView**
-> 1. **Run QuickChartTool_v1.0.ahk**
-> 1. **That's it**
+1. **Download repository**
+1. **Unpack where you want**
+1. **Run TradingView**
+1. **Run QuickChartTool_v1.0.ahk**
+1. **That's it**
 
 > [!NOTE]
 > **During the first launch, a config.ini file will be created in the folder where QuickChartTool_v1.0.ahk is located**
@@ -30,7 +30,7 @@
 &nbsp; 
 
 ## FEATURES
-> ### **Mouse gesture**
+### **Mouse gesture**
 > - **Horizontal Ray**
 > - **Trend line**
 > - **Trend line with 45 degree lock**
@@ -40,7 +40,7 @@
 
 &nbsp;
 
-> ### **Quick access to**
+### **Quick access to**
 > - **Interval**
 > - **Favorites Symbol/Ticker**
 > - **Measure tool <sup>Side mouse button</sup>**
@@ -51,41 +51,33 @@
 &nbsp;
 
 ## USAGE
->### **Interval, Fav symbol, Reset, Snap and Hide**
->- **Holding mouse MButton, point the mouse cursor at ( e.g. 3m interval or ETH symbol) then release MButton**
+### **Interval, Fav symbol, Reset, Snap and Hide**
+> **Holding mouse MButton, point the mouse cursor at ( e.g. 3m interval or ETH symbol) then release MButton**
 
 &nbsp;
 
->### **Mouse gesture**
->- **Hold mouse RButton and move mouse quickly in the direction**
+### **Mouse gesture**
+> **Hold mouse RButton and move mouse quickly in the direction**
 >
->    | Mouse Gesture | Description |
->    | ------------- | ---
->    | **Mouse move ⬆️<sup>up</sup>** | Trend line with 45 degree lock |
->    | **Mouse move ➡️<sup>right</sup>** | Trend line |
->    | **Mouse move ⬇️<sup>down</sup>** | Select and Delete/Erease |
->    | **Mouse move ⬅️<sup>left</sup>** | Horizontal ray |
+>   | Mouse Gesture | Description |
+>   | ------------- | ---
+>   | **Mouse move ⬆️<sup>up</sup>** | Trend line with 45 degree lock |
+>   | **Mouse move ➡️<sup>right</sup>** | Trend line |
+>   | **Mouse move ⬇️<sup>down</sup>** | Select and Delete/Erease |
+>   | **Mouse move ⬅️<sup>left</sup>** | Horizontal ray |
 
 &nbsp;
 
 > [!TIP]
 > 
-> **If you want to use the right mouse button, simply hold down the RButton for a moment without moving the mouse**
-
-&nbsp;
-
-> [!TIP]
-> 
-> **In the config.ini file you can set new symbols, intervals, you can choose a light/dark theme and you can set the BINANCE or BYBIT exchange**
-> 
-> **Remember to keep lowercase and uppercase letters**
-> 
+> - **In the config.ini file you can set new symbols, intervals, you can choose a light/dark theme and you can set the BINANCE or BYBIT exchange**
+>
 > ![image](https://github.com/CHAOS-BlockchainChaos/QuickChartTool/assets/97523302/29a26169-6b9e-46de-b11d-0b82e782ff2f)
-
-&nbsp;
-
----
-
-&nbsp;
-
-# "This is the end, my only friend" <sub> Jim Morrison</sub>
+> 
+> &nbsp;
+> 
+> - **Remember to keep lowercase and uppercase letters**
+> 
+> &nbsp;
+> 
+> - **If you want to use the right mouse button in TradingView, simply hold down the RButton for a moment without moving the mouse**
