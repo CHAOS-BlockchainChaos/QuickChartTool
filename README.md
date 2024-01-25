@@ -16,7 +16,7 @@
 &nbsp;
 
 ## INSTALLATION
-1. **Download repository**
+1. **Download [QuickChartTool-main.zip](https://github.com/CHAOS-BlockchainChaos/QuickChartTool/releases)**
 1. **Unpack where you want**
 1. **Run TradingView**
 1. **Run QuickChartTool_v1.0.ahk**
