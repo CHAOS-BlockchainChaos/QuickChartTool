@@ -1,17 +1,28 @@
-# Quick Chart Tool <sup>v1</sup> | <sup>Support my work on</sup> <sub>[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/blockchainchaos)</sub>
-![Untitled](https://github.com/CHAOS-BlockchainChaos/QuickChartTool/assets/97523302/c0915101-2b38-4870-9f46-a3a984aef2f1)
+<h1 align="center">
+  Quick Chart Tool <sup>v1</sup> | <sup>Support my work on</sup>
+  <a href="https://www.buymeacoffee.com/blockchainchaos">
+  <sub> <img src="https://iili.io/JoQ15zX.md.png"  alt="buymeacoffee-white-badge" style="height: 40px;"></sub>
 
-## **Script write in [AHK<sup>v1</sup>](https://www.autohotkey.com/) for interacting with the [TradingView](https://www.tradingview.com/desktop/) platform is a tool designed for users looking to optimize their experience with Crypto market analysis.**
+<p></p>
+
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Quick%20Chart%20Tools-v1.0-blue?style=for-the-badge&labelColor=121621&color=ffffff" style="height: 30px">
+  <img src="https://img.shields.io/github/downloads/CHAOS-BlockchainChaos/QuickChartTool/total?style=for-the-badge&logoColor=fff&labelColor=121621&color=ffffff" style="height:30px">
+</p>
+
+<p align="center">
+  <img src="https://github.com/CHAOS-BlockchainChaos/QuickChartTool/assets/97523302/c0915101-2b38-4870-9f46-a3a984aef2f1">
+</p>
+
+#### **Script write in [AHK<sup>v1</sup>](https://www.autohotkey.com/) for interacting with the [TradingView](https://www.tradingview.com/desktop/) platform is a tool designed for users looking to optimize their experience with Crypto market analysis.** <p align="center"></p>
 
 &nbsp;
 
-## REQUIREMENTS
+## REQUIREMENTS <p align="center"></p>
 
->[!IMPORTANT]
->
-> - [x] **Microsoft Windows <sup>tested on Windows 10</sup>**
-> - [x] **Installed AutoHotKey <sup>v1.1**
-> - [x] **TradingView <sup>Desktop Version</sup>**
+<img src="https://img.shields.io/badge/ㅤWINDOWSㅤ-10-0079D7?style=for-the-badge&labelColor=0079D7&color=fff&logoColor=fff&logo=windows10" style="height: 30px"> <img src="https://img.shields.io/badge/tradingview-desktop-blue?style=for-the-badge&labelColor=121621&color=ffffff&logo=tradingview" style="height: 30px"> <img src="https://img.shields.io/badge/ㅤAutohotkey-v1-blue?style=for-the-badge&labelColor=7AC673&color=ffffff&logo=autohotkey&logoColor=black" style="height: 30px">
 
 &nbsp;
 
@@ -29,7 +40,7 @@
 
 &nbsp; 
 
-## FEATURES
+## FEATURES <p align="center"></p>
 ### **Mouse gesture**
 > - **Horizontal Ray**
 > - **Trend line**
@@ -50,7 +61,7 @@
 
 &nbsp;
 
-## USAGE
+## USAGE <p align="center"></p>
 ### **Interval, Fav symbol, Reset, Snap and Hide**
 > **Holding mouse MButton, point the mouse cursor at ( e.g. 3m interval or ETH symbol) then release MButton**
 
