@@ -80,7 +80,7 @@
 
 
 
-- ### **Mouse gesture <sup>( 🡡 🡥 🡢 🡦 🡣 🡧 🡠 🡤 )</sup>**
+- ### **Mouse gesture <sup>( ↑ ↗ → ↘ ↓ ↙ ← ↖ )</sup>**
   **Holding RMButton and quick move in direction**
   
   | **🡡** | Trend line with 45° lock       |
