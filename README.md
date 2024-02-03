@@ -43,10 +43,10 @@
 ## FEATURES 
 <p></p>
 
-- ### **Mouse gesture** <sup>( 🡹 🡺 🡻 🡸 )
+- ### **Mouse gesture** <sup>( 🡡 🡢 🡣 🡠 )
   - **Horizontal Ray**
   - **Trend line**
-  - **Trend line with 45 degree lock**
+  - **Trend line with 45° lock**
   - **Erase/Delete**
 
 > [!NOTE]
@@ -78,14 +78,16 @@
 
 &nbsp;
 
-- ### **Mouse gesture <sup>( 🡹 🡽 🡺 🡾 🡻 🡿 🡸 🡼 )</sup>**
+
+
+- ### **Mouse gesture <sup>( 🡡 🡥 🡢 🡦 🡣 🡧 🡠 🡤 )</sup>**
   **Holding RMButton and quick move in direction**
   
-  | **🡹** | Trend line with 45° lock       |
+  | **🡡** | Trend line with 45° lock       |
   | :-:    | -                              |
-  | **🡺** | Trend line                     |
-  | **🡻** | Select and Delete/Erease       |
-  | **🡸** | Horizontal ray                 |
+  | **🡢** | Trend line                     |
+  | **🡣** | Select and Delete/Erease       |
+  | **🡠** | Horizontal ray                 |
 
 &nbsp;
 
